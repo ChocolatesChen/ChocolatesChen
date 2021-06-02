@@ -5,7 +5,7 @@
 - 岗位：长方形混泥土资深移动小师傅
 - 追求：黄袍加身送外卖 😁
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocolatesChen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChocolatesChen&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ChocolatesChen/ChocolatesChen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
