@@ -1,5 +1,5 @@
-- 💪 6年+工作经验
-- 📝 OC/Swift/Shell/Ruby/Python/java
+- 💪 8年+工作经验
+- 📝 OC/Swift/Harmony/Shell/Ruby/Python/java
 - 👟 宠物、足球、美股、数码
 - 📮 chenguang_defu@163.com
 - 岗位：长方形混泥土资深移动小师傅
